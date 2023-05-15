@@ -13,7 +13,7 @@ In ***ICSE'23**: ICSE 2023 SEIP - Software Engineering in Practice* ([PDF](https
 ## 2022
 
 [**A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music**](https://dl.acm.org/doi/10.1145/3548606.3560643)  
-Anomadarshi Barua\*, **Yonatan Gizachew Achamyeleh**\*, Mohammad Abdullah Al Faruque  (\*Co-first authors contribution)
+Anomadarshi Barua\*, **Yonatan Gizachew Achamyeleh**\*, Mohammad Abdullah Al Faruque  (\*Co-first authors)
 In ***CCS'22**: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security* ([PDF](https://emegua.github.io/files/ccs22.pdf))
 
 
