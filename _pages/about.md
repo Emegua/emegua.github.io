@@ -2,23 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of California, Irvine. [GitHub](https://github.com/emegua). [Google Scholar](https://scholar.google.com/citations?user=_5z8U80AAAAJ). "Innovating Security in Cyber-Physical Systems."
+subtitle: <a href="mailto:yachamye@uci.edu">yachamye@uci.edu</a>
   
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Email: <a href="mailto:yonatan.achamyeleh@uci.edu">yonatan.achamyeleh@uci.edu</a></p>
-    <p>Office: 555 Computer Engineering Building</p>
-    <p>Address: 123 Academic Way, Irvine, CA 92697</p>
+profiles:
+  - align: right
+    image: yonatan.jpg
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Email: <a href="mailto:yachamye@uci.edu">yachamye@uci.edu</a></p>
+      <p>Office: 5440 Engineering Hall</p>
+      <p>Address: 5440 Engineering Hall, Irvine, CA 92617</p>
     
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
   
-[GitHub](https://github.com/emegua) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=_5z8U80AAAAJ) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/yonatan-g-achamyeleh-47310414a/) [X](https://x.com/YonatanGizachew) 
+[GitHub](https://github.com/emegua) &nbsp;&nbsp;&nbsp;&nbsp; [Google Scholar](https://scholar.google.com/citations?user=_5z8U80AAAAJ) &nbsp;&nbsp;&nbsp;&nbsp;  [LinkedIn](https://www.linkedin.com/in/yonatan-g-achamyeleh-47310414a/) &nbsp;&nbsp;&nbsp;&nbsp; [X](https://x.com/YonatanGizachew) 
+
 
 
 I'm **Yonatan G. Achamyeleh**, a Ph.D. candidate in Computer Engineering at the University of California, Irvine (UCI). My research focuses on enhancing the security of embedded and cyber-physical systems through machine learning techniques applied to binary analysis and instrumentation.
