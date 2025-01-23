@@ -30,18 +30,17 @@
   "work": [
     {
       "name": "Autonomous and Intelligent Cyber-Physical Systems Lab - UCI",
-      "position": "Lead Graduate Student Researcher",
+      "position": "Graduate Student Researcher",
       "url": "",
       "startDate": "2021-10-01",
       "endDate": "Present",
-      "summary": "Leading security research initiatives, including DARPA-sponsored critical infrastructure protection projects.",
+      "summary": "",
       "highlights": [
-        "Led the lab's security research group, spearheading cross-functional teams in cybersecurity initiatives.",
-        "Pioneered AGNOMIN, an advanced architecture-agnostic framework for binary analysis, integrating hierarchical Graph Neural Networks with attention mechanisms and domain-specific tokenization to enable robust cross-architectural function identification and similarity detection.",
+        "Developed AGNOMIN, an advanced architecture-agnostic framework for binary analysis, integrating hierarchical Graph Neural Networks with attention mechanisms and domain-specific tokenization to enable robust cross-architectural function identification and similarity detection.",
         "Engineered BaroVox, an innovative acoustic side-channel framework combining advanced signal processing with custom neural architectures (ResNet, denoising autoencoders) for speech reconstruction from sensor data, demonstrating new attack vectors in cyber-physical systems.",
         "Developed novel acoustic-based attack vectors in cyber-physical systems, combining resonance analysis with signal processing techniques to demonstrate critical vulnerabilities in biosafety infrastructure and drones.",
         "Optimized binary instrumentation and analysis techniques through LLVM compiler framework, enhancing memory sanitizers and fuzzing processes for improved system security.",
-        "Developed HyperDetect, a novel brain-inspired hyperdimensional computing solution for network security, implementing real-time intrusion detection through neural adaptation and dynamic encoding techniques for resource-constrained IoT environments."
+        "Contributed to HyperDetect, a novel brain-inspired hyperdimensional computing solution for network security, implementing real-time intrusion detection through neural adaptation and dynamic encoding techniques for resource-constrained IoT environments."
       ]
     },
     {
@@ -50,7 +49,7 @@
       "url": "https://www.intel.com",
       "startDate": "2024-06-01",
       "endDate": "2024-09-01",
-      "summary": "Developed a novel approach to retrofit compiler-based memory safety into legacy binaries without source code, enhancing security in critical infrastructure.",
+      "summary": "",
       "highlights": [
         "Developed a novel approach to retrofit compiler-based memory safety into legacy binaries without source code, enhancing security in critical infrastructure.",
         "Leveraged post-link binary optimization within the LLVM framework to balance performance impacts with improved security, reducing code size overhead.",
@@ -64,7 +63,7 @@
       "url": "https://www.intel.com",
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
-      "summary": "Contributed to the DARPA-funded HARDEN program, focusing on securing Department of Defense systems by reinforcing toolchains against emergent execution engines (EEs).",
+      "summary": "",
       "highlights": [
         "Contributed to the DARPA-funded HARDEN program, focusing on securing Department of Defense systems by reinforcing toolchains against emergent execution engines (EEs).",
         "Designed and implemented advanced binary instrumentation techniques to enhance security for both legacy and modern binaries, achieving strong protection without source code access.",
@@ -77,7 +76,7 @@
       "url": "https://www.siemens.com",
       "startDate": "2022-06-01",
       "endDate": "2022-09-01",
-      "summary": "Contributed to DARPA-funded research on automated vulnerability patch generation for critical systems.",
+      "summary": "",
       "highlights": [
         "Contributed to DARPA-funded research on automated vulnerability patch generation for critical systems.",
         "Developed graph-based deep learning approaches for binary characterization and patch synthesis, integrating hierarchical graph neural networks with attention mechanisms.",
@@ -90,7 +89,7 @@
       "url": "https://github.com/lablup/backend.ai-jail",
       "startDate": "2021-03-01",
       "endDate": "2021-06-01",
-      "summary": "Worked on 'Jail,' a ptrace-based program enabling system calls and file-system functions for Docker, used as a dynamic sandbox in Backend.Ai kernels.",
+      "summary": "",
       "highlights": [
         "Worked on 'Jail,' a ptrace-based program enabling system calls and file-system functions for Docker, used as a dynamic sandbox in Backend.Ai kernels."
       ]
@@ -101,7 +100,7 @@
       "url": "",
       "startDate": "2020-02-01",
       "endDate": "2021-01-01",
-      "summary": "Developed a framework supporting native emulation for large-scale blockchain networks, enabling reproducible security and performance evaluations.",
+      "summary": "",
       "highlights": [
         "Developed a framework supporting native emulation for large-scale blockchain networks, enabling reproducible security and performance evaluations.",
         "Enhanced native blockchain support for C/C++ and Golang, optimizing emulator compatibility."
@@ -113,11 +112,22 @@
       "organization": "Usenix Security'25",
       "position": "Conference PC Member to the Artifacts Evaluation Committee",
       "url": "",
-      "startDate": "2025-11-01",
-      "endDate": "2025-08-01",
+      "startDate": "2024-11-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Conference PC Member to the Artifacts Evaluation Committee."
+        ""
+      ]
+    },
+    {
+      "organization": "ACM Cyber-Physical System Security Workshop (CPSS 2025)",
+      "position": "Workshop PC Member",
+      "url": "",
+      "startDate": "2025-01-10",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        ""
       ]
     },
     {
@@ -160,7 +170,7 @@
       "url": "",
       "startDate": "2024-07-01",
       "endDate": "2024-07-01",
-      "summary": "Organized the inaugural UCI GEECS Annual Technology Showcase.",
+      "summary": "Co-organized the inaugural UCI GEECS Annual Technology Showcase.",
       "highlights": []
     },
     {
@@ -173,8 +183,8 @@
       "highlights": []
     },
     {
-      "organization": "Mentor",
-      "position": "",
+      "organization": "UC Irvine AICPS Lab",
+      "position": "Mentor",
       "url": "",
       "startDate": "2022-02-01",
       "endDate": "Present",
@@ -191,7 +201,7 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Active member contributing to initiatives and events."
+        ""
       ]
     },
     {
@@ -204,14 +214,14 @@
       "highlights": []
     },
     {
-      "organization": "Graduate Program Ambassador",
-      "position": "",
+      "organization": "UCI School of Electrical Engineering and Computer Science",
+      "position": "Graduate Program Ambassador",
       "url": "",
       "startDate": "2022-03-01",
       "endDate": "2022-09-01",
       "summary": "Advised students from underrepresented groups in engineering to answer any questions they may have before deciding about graduate school.",
       "highlights": [
-        "Advised students from underrepresented groups in engineering."
+        ""
       ]
     }
   ],
@@ -543,55 +553,5 @@
       ]
     }
   ],
-  "references": [],
-  "projects": [
-    {
-      "name": "Pintos Operating Systems Project",
-      "summary": "Implemented Pintos operating systems project in C.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Designing Multi-Cycle CPU",
-      "summary": "Designed multi-cycle CPU, pipelined CPU, cache microarchitecture on top of pipelined CPU using Verilog.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Implementing Redis Web-Server",
-      "summary": "Implemented Redis web-server that can handle large-scale requests using thread pool in C and libevent.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Implementing a Reliable Transport Layer",
-      "summary": "Implemented a reliable transport layer in C.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Various Simulations using Gem5",
-      "summary": "Performed various simulations using Gem5.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Other Projects in C",
-      "summary": "Completed various projects in C.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    }
-  ]
+  "references": []
 }
