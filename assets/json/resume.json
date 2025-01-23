@@ -377,35 +377,21 @@
     {
       "name": "S. Yu, Yonatan G. Achamyeleh, C. Wang, K. Anton, E. Patrick, and Mohammad A. Al Faruque. “CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural Software Reverse Engineering” Published in: ICSE SEIP 2023.",
       "publisher": "ICSE SEIP",
-      "releaseDate": "2023-??-??",
+      "releaseDate": "2023",
       "url": "",
       "summary": ""
     },
     {
       "name": "J. Wang, H. Xu, Yonatan Gizachew Achamyeleh, S. Huang, Mohammad Al Faruque. “HyperDetect: A Real-Time Hyperdimensional Solution For Intrusion Detection in IoT Networks” Published in: IEEE IoT Journal 2023.",
       "publisher": "IEEE IoT Journal",
-      "releaseDate": "2023-??-??",
+      "releaseDate": "2023",
       "url": "",
       "summary": ""
     },
     {
       "name": "Yonatan G. Achamyeleh, M. Fakih, A. Barua, and Mohammad A. Al Faruque. “A Fly on the Wall - Exploiting Acoustic Side-Channels in Differential Pressure Sensors” Accepted at: ACSAC 2024.",
       "publisher": "ACSAC",
-      "releaseDate": "2024-??-??",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Yonatan G. Achamyeleh, S. Yu, A. Gustavo Quiros, and Mohammad A. Al Faruque. “Bridging the Gap in PLC Binary Analysis: An Inclusive Dataset and Binary Embedding Framework for Industrial Control Systems” Under review at DMLR.",
-      "publisher": "DMLR",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "name": "Yonatan G. Achamyeleh, S. Yu, and Mohammad A. Al Faruque. “AGNOMIN - Architecture Agnostic Multi-Label Function Name Prediction” Under review: ICSE 2024.",
-      "publisher": "ICSE",
-      "releaseDate": "",
+      "releaseDate": "2024",
       "url": "",
       "summary": ""
     },
