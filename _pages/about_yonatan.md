@@ -1,0 +1,5 @@
+I'm **Yonatan G. Achamyeleh**, a Ph.D. candidate in Computer Engineering at the University of California, Irvine (UCI). My research focuses on enhancing the security of embedded and cyber-physical systems through machine learning techniques applied to binary analysis and instrumentation.
+
+I hold a Master's degree in Computer Engineering from UCI and a Bachelor's degree in Electrical Engineering from KAIST. During the summers, I interned at Intel Corporation (2X), working on computer systems security and architecture, and Siemens, working on Machine Learning based patch generation for securing legacy binaries.
+
+Feel free to check out my [publications](/publications/) or connect with me through my [X](https://x.com/YonatanGizachew) and [Google Scholar](https://scholar.google.com/citations?user=_5z8U80AAAAJ) profiles. I'm open to collaborations on projects related to security, machine learning, and embedded systems. Please don't hesitate to reach out if you're interested in working together.
