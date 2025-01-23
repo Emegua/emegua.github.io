@@ -96,7 +96,7 @@
     },
     {
       "name": "KAIST Cyber Security Research Center (CSRC)",
-      "position": "Intern Researcher",
+      "position": "Research Intern",
       "url": "",
       "startDate": "2020-02-01",
       "endDate": "2021-01-01",
@@ -115,9 +115,7 @@
       "startDate": "2024-11-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights":  []
     },
     {
       "organization": "ACM Cyber-Physical System Security Workshop (CPSS 2025)",
@@ -126,9 +124,7 @@
       "startDate": "2025-01-10",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": []
     },
     {
       "organization": "DECADE",
@@ -200,9 +196,7 @@
       "startDate": "2019-02-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights":  []
     },
     {
       "organization": "DAC'22'23 and ICCAD'22'23'24",
@@ -220,9 +214,7 @@
       "startDate": "2022-03-01",
       "endDate": "2022-09-01",
       "summary": "Advised students from underrepresented groups in engineering to answer any questions they may have before deciding about graduate school.",
-      "highlights": [
-        ""
-      ]
+      "highlights":  []
     }
   ],
   "education": [
@@ -368,37 +360,41 @@
   "certificates": [],
   "publications": [
     {
-      "name": "A. Barua*, Yonatan G. Achamyeleh*, and Mohammad A. Al Faruque. “A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music” Published in: ACM CCS 2022.",
+      "name": "A. Barua*, Yonatan G. Achamyeleh*, and Mohammad A. Al Faruque",
+      "title" : "A Wolf in Sheep's Clothing: Spreading Deadly Pathogens Under the Disguise of Popular Music",
       "publisher": "ACM CCS",
       "releaseDate": "2022-06-30",
       "url": "",
       "summary": "* Co-authors with equal contribution."
     },
     {
-      "name": "S. Yu, Yonatan G. Achamyeleh, C. Wang, K. Anton, E. Patrick, and Mohammad A. Al Faruque. “CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural Software Reverse Engineering” Published in: ICSE SEIP 2023.",
+      "name": "S. Yu, Yonatan G. Achamyeleh, C. Wang, K. Anton, E. Patrick, and Mohammad A. Al Faruque",
+      "title" : "CFG2VEC: Hierarchical Graph Neural Network for Cross-Architectural Software Reverse Engineering",
       "publisher": "ICSE SEIP",
       "releaseDate": "2023",
       "url": "",
       "summary": ""
     },
     {
-      "name": "J. Wang, H. Xu, Yonatan Gizachew Achamyeleh, S. Huang, Mohammad Al Faruque. “HyperDetect: A Real-Time Hyperdimensional Solution For Intrusion Detection in IoT Networks” Published in: IEEE IoT Journal 2023.",
+      "name": "J. Wang, H. Xu, Yonatan Gizachew Achamyeleh, S. Huang, Mohammad Al Faruque",
+      "title" : "HyperDetect: A Real-Time Hyperdimensional Solution For Intrusion Detection in IoT Networks",
       "publisher": "IEEE IoT Journal",
       "releaseDate": "2023",
       "url": "",
       "summary": ""
     },
     {
-      "name": "Yonatan G. Achamyeleh, M. Fakih, A. Barua, and Mohammad A. Al Faruque. “A Fly on the Wall - Exploiting Acoustic Side-Channels in Differential Pressure Sensors” Accepted at: ACSAC 2024.",
+      "name": "Yonatan G. Achamyeleh, M. Fakih, A. Barua, and Mohammad A. Al Faruque",
+      "title" : "A Fly on the Wall - Exploiting Acoustic Side-Channels in Differential Pressure Sensors",
       "publisher": "ACSAC",
       "releaseDate": "2024",
       "url": "",
       "summary": ""
     },
     {
-      "name": "Yonatan G. Achamyeleh. “Harmonic Intrusions: Manipulating Negative Pressure Rooms with Music-Embedded Resonant Frequency Attacks” Masters Thesis, UCI",
+      "name": "Yonatan G. Achamyeleh",
       "publisher": "UCI",
-      "releaseDate": "",
+      "releaseDate": "Harmonic Intrusions: Manipulating Negative Pressure Rooms with Music-Embedded Resonant Frequency Attacks",
       "url": "",
       "summary": ""
     }
