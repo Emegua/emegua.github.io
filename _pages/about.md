@@ -29,7 +29,7 @@ I hold a Master's degree in Computer Engineering from UCI and a Bachelor's degre
 
 Feel free to check out my [publications](/publications/) or connect with me through my [GitHub](https://github.com/emegua) and [Google Scholar](https://scholar.google.com/citations?user=_5z8U80AAAAJ) profiles. I'm open to collaborations on projects related to security, machine learning, and embedded systems. Please don't hesitate to reach out if you're interested in working together.
 
-### <span style="color:cyan;">Research Interests</span>
+### <span style="color:Maroon;">Research Interests</span>
 
 #### Binary Code Analysis for Security
 
@@ -50,7 +50,7 @@ Feel free to check out my [publications](/publications/) or connect with me thro
 - **Industrial Control System Security and Provenance Tracking:**  
   Applying machine learning models, including transformers, to monitor and verify the integrity of industrial control systems (ICS) and other critical infrastructure components. This work strengthens system security in automation and industrial environments by tracking toolchain provenance and analyzing behavioral patterns in programmable logic controllers (PLCs).
 
-### <span style="color:cyan;">Selected Projects</span>
+### <span style="color:Maroon;">Selected Projects</span>
 
 - **AGNOMIN:**  
   An architecture-agnostic framework leveraging hierarchical Graph Neural Networks for multi-label function name prediction.
