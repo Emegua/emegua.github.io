@@ -12,6 +12,10 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% assign sorted_years = page.years | sort: 'reverse' %}
+{% for year in sorted_years %}
+  <h2>{{ year }}</h2>
+  {% bibliography --query @*[year={{ year }}]* %}
+{% endfor %}
 
 </div>
