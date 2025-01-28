@@ -1,6 +1,9 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
-
+<meta name="description" content="Official website of Yonatan G. Achamyeleh - Portfolio, Projects, and Research.">
+<meta name="keywords" content="Yonatan G. Achamyeleh, Portfolio, Developer, Researcher">
+<meta name="author" content="Yonatan G. Achamyeleh">
+{% seo %} 
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link
@@ -9,7 +12,18 @@
   integrity="{{ site.third_party_libraries.mdb.integrity.css }}"
   crossorigin="anonymous"
 >
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yonatan G. Achamyeleh",
+  "url": "https://emegua.github.io",
+  "sameAs": [
+    "https://github.com/emegua",
+    "https://www.linkedin.com/in/YonatanGAchamyeleh"
+  ]
+}
+</script>
 {% if page.pretty_table %}
   <!-- Bootstrap Table -->
   <link
